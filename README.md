@@ -1,4 +1,4 @@
-# 🎓 Data Science & Machine Learning Kurzus
+# 🎓 Data Science & Machine Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" />
@@ -53,8 +53,8 @@ Ez a repó egy **teljes körű, gyakorlatorientált Data Science kurzus**, amely
 
 ```bash
 # 1. Klónozd a repót
-git clone https://github.com/zsudeld/DS_kurzus.git
-cd ds_kurzus
+git clone https://github.com/zsudeld/DS.git
+cd ds
 
 # 2. Hozz létre virtuális környezetet (ajánlott)
 python -m venv .venv
